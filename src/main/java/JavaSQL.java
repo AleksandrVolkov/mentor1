@@ -90,6 +90,7 @@ public class JavaSQL {
 //            createTable(conn);
             System.out.println('\n');
 
+
             selectQuery(conn);
 //            insertQuery(conn, "Alex1", "Petrov", "Logon_2008");
             removeQuery(conn, 2);
